@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG3_EyasRashid/graphm.cpp
+graphm.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG3_EyasRashid/graphm.h
+limits.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG3_EyasRashid/limits.h
+iomanip
+-
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG3_EyasRashid/graphm.h
+nodedata.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG3_EyasRashid/nodedata.h
+fstream
+-
+iostream
+-
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG3_EyasRashid/nodedata.h
+string
+-
+iostream
+-
+fstream
+-
+
